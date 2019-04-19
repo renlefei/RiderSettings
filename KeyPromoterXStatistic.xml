@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘-' or '⌘-'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Solution">
         <Item>
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
@@ -49,12 +57,28 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Force Run to Statement">
+        <Item>
+          <IdeaActionID>ForceRunToCursor</IdeaActionID>
+          <ShortCut>'⌥⌘F9'</ShortCut>
+          <Description>Force Run to Statement</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Method...">
         <Item>
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'⌘R, M' or '⌘R, ⌘M'</ShortCut>
           <Description>Method...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Project...">
@@ -102,7 +126,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘U, R' or '⌘U, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -113,12 +137,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'⇧F11'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
