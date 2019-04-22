@@ -190,7 +190,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'⌘U, R' or '⌘U, ⌘R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Smart Step Into">
@@ -238,7 +238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'All tests from &lt;HandleString.Tests&gt;'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop Execution">
