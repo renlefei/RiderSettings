@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>30</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Block Comment">
@@ -71,6 +71,14 @@
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Default'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Debug 'Default'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -198,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -238,7 +246,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F11'</ShortCut>
           <Description>Step Out</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -254,6 +262,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'All tests from &lt;HandleString.Tests&gt;'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Default'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'Default'</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
