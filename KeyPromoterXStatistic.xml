@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Block Comment">
@@ -22,7 +22,7 @@
           <IdeaActionID>CommentByBlockComment</IdeaActionID>
           <ShortCut>'⌃⌘/' or '⇧⌘NumPad /'</ShortCut>
           <Description>Comment with Block Comment</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Line Comment">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>37</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
