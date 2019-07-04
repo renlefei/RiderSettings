@@ -14,7 +14,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>62</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Block Comment">
@@ -22,7 +22,7 @@
           <IdeaActionID>CommentByBlockComment</IdeaActionID>
           <ShortCut>'⌃⌘/' or '⇧⌘NumPad /'</ShortCut>
           <Description>Comment with Block Comment</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Line Comment">
@@ -31,6 +31,14 @@
           <ShortCut>'⌥⌘/' or '⌥⌘NumPad /' or '⌘K, C' or '⌘K, ⌘C'</ShortCut>
           <Description>Comment with Line Comment</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌥⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -206,7 +214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>41</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
