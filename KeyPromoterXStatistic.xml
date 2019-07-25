@@ -9,12 +9,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Build</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Solution">
         <Item>
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'⇧⌘B'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>67</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Block Comment">
@@ -38,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌥⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -86,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -209,12 +217,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Default'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -294,7 +310,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -302,7 +318,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘1'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -318,7 +334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
