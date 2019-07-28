@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌥⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -103,6 +103,22 @@
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Debug 'Default'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ISP'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Debug 'ISP'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'LOD'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Debug 'LOD'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LSP'">
@@ -190,7 +206,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -255,6 +271,22 @@
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'Default'</Description>
           <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ISP'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌘F5'</ShortCut>
+          <Description>Run 'ISP'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LOD'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌘F5'</ShortCut>
+          <Description>Run 'LOD'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LSP'">
@@ -350,7 +382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘1'</ShortCut>
           <Description>Terminal</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -361,12 +393,20 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unit Tests">
+        <Item>
+          <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
+          <ShortCut>'⌘8' or '⇧⌘8'</ShortCut>
+          <Description>Unit Tests</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
