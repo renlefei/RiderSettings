@@ -190,7 +190,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
