@@ -129,12 +129,28 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'LOD2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Debug 'LOD2'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'LOD3'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Debug 'LOD3'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'LSP'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Debug 'LSP'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OCP'">
@@ -238,7 +254,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -327,6 +343,22 @@
           <ShortCut>'⌘F5'</ShortCut>
           <Description>Run 'LOD'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LOD2'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌘F5'</ShortCut>
+          <Description>Run 'LOD2'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LOD3'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌘F5'</ShortCut>
+          <Description>Run 'LOD3'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LSP'">
