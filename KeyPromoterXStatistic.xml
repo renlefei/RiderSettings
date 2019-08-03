@@ -62,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Debug 'LOD3'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LSP'">
@@ -254,7 +254,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -318,6 +318,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌘F5'</ShortCut>
           <Description>Run 'DIP'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DIP1'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌘F5'</ShortCut>
+          <Description>Run 'DIP1'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
