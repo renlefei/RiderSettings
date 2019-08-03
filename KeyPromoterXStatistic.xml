@@ -254,7 +254,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -470,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Tests">
