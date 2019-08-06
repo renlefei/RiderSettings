@@ -406,7 +406,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌘F5'</ShortCut>
           <Description>Run 'LSP'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OCP'">
